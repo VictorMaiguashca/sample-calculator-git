@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="ec.edu.epn.git.calculator.CalculatorParametrizedTest" time="0.008" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="ec.edu.epn.git.calculator.CalculatorParametrizedTest" time="0.003" errors="0" skipped="0">
   <properties>
     <property name="java.vendor" value="Eclipse OpenJ9"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
@@ -68,7 +68,7 @@ JCL      - b52d2ff7ee based on jdk8u275-b01"/>
     <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2020.3.1 package"/>
     <property name="java.class.path" value="/snap/intellij-idea-community/270/plugins/maven/lib/maven3/boot/plexus-classworlds-2.6.0.jar:/snap/intellij-idea-community/270/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/snap/intellij-idea-community/270/lib/idea_rt.jar:/snap/intellij-idea-community/270/lib/idea_rt.jar"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="sun.java.launcher.pid" value="19061"/>
+    <property name="sun.java.launcher.pid" value="29805"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="java.io.tmpdir" value="/tmp"/>
@@ -88,10 +88,10 @@ JCL      - b52d2ff7ee based on jdk8u275-b01"/>
     <property name="com.ibm.oti.configuration" value="scar"/>
     <property name="java.specification.version" value="1.8"/>
   </properties>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[0]" time="0.003"/>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[1]" time="0.001"/>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[2]" time="0.001"/>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[3]" time="0.003"/>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[4]" time="0"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[0]" time="0.002"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[1]" time="0"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[2]" time="0"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[3]" time="0"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[4]" time="0.001"/>
   <testcase classname="ec.edu.epn.git.calculator.CalculatorParametrizedTest" name="given_parameter_when_addition_then_summation[5]" time="0"/>
 </testsuite>
